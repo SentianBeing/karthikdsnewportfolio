@@ -124,7 +124,7 @@ const Navbar: React.FC<NavbarProps> = React.memo(({ onNavigate, currentPage }) =
         >
           <img
             src="/logo.png"
-            alt="Karthik DS"
+            alt=""
             className="w-8 h-8 rounded-lg transform -rotate-3 transition-transform hover:rotate-0 object-cover"
           />
           <div className="flex flex-col leading-none font-bold text-sm tracking-tight text-left">
