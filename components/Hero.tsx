@@ -56,7 +56,7 @@ const Hero: React.FC = () => {
       <div className="relative mb-8">
       <div className="w-20 h-20 md:w-24 md:h-24 bg-brand-yellow rounded-2xl overflow-hidden flex items-end justify-center relative z-10 mx-auto transform rotate-3 shadow-lg">
          <img 
-        src="/karthik-divegrid.png" 
+        src="https://i.ibb.co/TBfxhntj/karthikport-removebg-preview.png" 
         alt="Portrait of Karthik DS"
         width="200"
         height="200"
