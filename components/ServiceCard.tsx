@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, CornerDownRight } from 'lucide-react';
+import { CornerDownRight } from 'lucide-react';
 import { ServiceItem } from '../types';
 
 interface ServiceCardProps {
