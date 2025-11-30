@@ -123,7 +123,7 @@ const Navbar: React.FC<NavbarProps> = React.memo(({ onNavigate, currentPage }) =
           aria-label="Go to home"
         >
           <img
-            src="/logo.png"
+            src="https://i.ibb.co/G48PvwLy/Gemini-Generated-Image-6dwdgj6dwdgj6dwd-removebg-preview.png"
             alt=""
             className="w-8 h-8 rounded-lg transform -rotate-3 transition-transform hover:rotate-0 object-cover"
           />
